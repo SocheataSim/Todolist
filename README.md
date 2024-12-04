@@ -69,3 +69,9 @@ Database Structure
    • Columns: user_id, username, password
  • Tasks Table: Stores task details.
    • Columns: task_id, user_id, task_name,date, status
+   
+Acknowledgments
+
+ • SQLite Documentation (https://www.sqlite.org/docs.html)
+ • Python Official Documentation (https://docs.python.org/3/)
+ • Tutorials & resources from W3Schools and YouTube.
